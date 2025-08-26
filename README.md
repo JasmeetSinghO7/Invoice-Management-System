@@ -18,9 +18,9 @@
 
 ## Working on Signal Mobile App
 
-<img src="https://github.com/user-attachments/assets/9866eba5-ae8d-4297-8208-85e110b7780b" width="200">
+<img src="https://github.com/user-attachments/assets/9866eba5-ae8d-4297-8208-85e110b7780b" width="320">
 
 
-<img src="https://github.com/user-attachments/assets/587f9e00-d413-49ad-a196-52f448d40ab7" width="200">
+<img src="https://github.com/user-attachments/assets/587f9e00-d413-49ad-a196-52f448d40ab7" width="320">
 
 
